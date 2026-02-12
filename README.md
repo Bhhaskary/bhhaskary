@@ -40,7 +40,7 @@ I’m a Data Engineering professional with 6+ years of experience building scala
 
 ## 🛠️ Tech Stack
 
-**Cloud:** AWS (S3, EC2, IAM, Glue), Azure  
+**Cloud:** Azure , AWS 
 **Data Processing:** PySpark, Spark SQL, Databricks  
 **Orchestration:** Apache Airflow, ADF  
 **Storage & Warehousing:** Delta Lake, ADLS, S3  
