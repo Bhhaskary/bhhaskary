@@ -46,11 +46,11 @@ I’m a Data Engineering professional with 6+ years of experience building scala
 **Storage & Warehousing:** Delta Lake, ADLS, S3  
 **Programming:** Python, SQL  
 **DevOps & Practices:** Git, CI/CD, Modular pipeline design, Data Quality frameworks  
-**Big Data & Distributed Processing : ** Hadoop,Hive,Hive (Migration to Spark),Distributed Data Processing & Performance Tuning
+**Big Data & Distributed Processing:** Hadoop,Hive,Hive (Migration to Spark),Distributed Data Processing & Performance Tuning
 
 ## 🎓 Certifications
 
-- ✅ AWS Certified 
+- ✅ Amazon Web Services Cloud Practitioner
 
 
 
@@ -70,7 +70,7 @@ I’m a Data Engineering professional with 6+ years of experience building scala
 ---
 
 ## 😄 Pronouns
-He
+He/Him
 
 ---
 
